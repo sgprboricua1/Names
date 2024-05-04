@@ -7,9 +7,6 @@ const collectEmployees = function() {
 const firstName =window.prompt("What is your First Name");
 const lastName = window.prompt ("What is your last name");
 const salary = window.prompt ("What is your salary");
-console.log (firstName);
-console.log (lastName);
-console.log (salary);
 
 }
 
